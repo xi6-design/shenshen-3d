@@ -1,0 +1,97 @@
+# shenshen pet model
+newmtl skin
+Ka 0 0 0
+Kd 0.9400 0.7950 0.7450
+Ks 0.05 0.05 0.05
+Ns 20
+d 1
+illum 2
+
+newmtl hair
+Ka 0 0 0
+Kd 0.2450 0.3750 0.6150
+Ks 0.05 0.05 0.05
+Ns 20
+d 1
+illum 2
+
+newmtl hair_light
+Ka 0 0 0
+Kd 0.4500 0.6350 0.8250
+Ks 0.05 0.05 0.05
+Ns 20
+d 1
+illum 2
+
+newmtl lace
+Ka 0 0 0
+Kd 0.9450 0.9600 0.9850
+Ks 0.05 0.05 0.05
+Ns 20
+d 1
+illum 2
+
+newmtl eye_white
+Ka 0 0 0
+Kd 0.9750 0.9850 1.0000
+Ks 0.05 0.05 0.05
+Ns 20
+d 1
+illum 2
+
+newmtl iris
+Ka 0 0 0
+Kd 0.3300 0.5650 0.8050
+Ks 0.05 0.05 0.05
+Ns 20
+d 1
+illum 2
+
+newmtl iris_deep
+Ka 0 0 0
+Kd 0.1350 0.2750 0.4950
+Ks 0.05 0.05 0.05
+Ns 20
+d 1
+illum 2
+
+newmtl ink
+Ka 0 0 0
+Kd 0.0500 0.0600 0.1000
+Ks 0.05 0.05 0.05
+Ns 20
+d 1
+illum 2
+
+newmtl hair_dark
+Ka 0 0 0
+Kd 0.1650 0.2550 0.4400
+Ks 0.05 0.05 0.05
+Ns 20
+d 1
+illum 2
+
+newmtl teal
+Ka 0 0 0
+Kd 0.2750 0.6050 0.7150
+Ks 0.05 0.05 0.05
+Ns 20
+d 1
+illum 2
+
+newmtl teal_dark
+Ka 0 0 0
+Kd 0.1700 0.4150 0.5300
+Ks 0.05 0.05 0.05
+Ns 20
+d 1
+illum 2
+
+newmtl dress
+Ka 0 0 0
+Kd 0.1650 0.2250 0.3750
+Ks 0.05 0.05 0.05
+Ns 20
+d 1
+illum 2
+

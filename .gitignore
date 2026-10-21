@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 渲染中间产物（可随时用 animate.py 重新生成）
+frames/
+palette.png
+
+# 临时目录（pip 缓存等）
+tmp/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,27 @@
+# 统一换行符，避免 Windows 上提交后满屏 diff
+* text=auto eol=lf
+
+# 明确文本类型
+*.py   text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+*.obj  text eol=lf
+*.mtl  text eol=lf
+
+# 二进制资产：禁止 diff、换行符转换与按文本渲染
+*.glb  binary
+*.stl  binary
+*.png  binary
+*.gif  binary
+*.webp binary
+*.jpg  binary
+*.jpeg binary
+
+# GitHub 语言统计：模型与图片不计入，让仓库主要显示 Python
+*.obj  linguist-vendored
+*.mtl  linguist-vendored
+*.glb  linguist-vendored
+*.stl  linguist-vendored
+*.png  linguist-documentation
+*.gif  linguist-documentation
+*.webp linguist-documentation
